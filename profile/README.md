@@ -25,13 +25,13 @@ Repository index organized by customer and product line.
 | [novamera.fe-sim](https://github.com/propel-ai/novamera.fe-sim) | Frontend | SIM Frontend — React |
 | [novamera.fe-ncu](https://github.com/propel-ai/novamera.fe-ncu) | Frontend | Nova Control Unit frontend |
 | [novamera.ncu-sim](https://github.com/propel-ai/novamera.ncu-sim) | Infrastructure | NCU + mock QA Docker Compose environment |
-| [novamera.svc-nsd](https://github.com/propel-ai/novamera.svc-nsd) | Service | Nova Software Development suite |
 | [novamera.theme](https://github.com/propel-ai/novamera.theme) | Design System | Novamera component library + design tokens |
 | [novamera.infra-iac](https://github.com/propel-ai/novamera.infra-iac) | Infrastructure | Terraform/CDK for AWS deployment |
 | [novamera.roadmap](https://github.com/propel-ai/novamera.roadmap) | Reference | Internal roadmap artifacts |
 | [novamera.developer](https://github.com/propel-ai/novamera.developer) | Reference | Local development environment setup |
 
 **Archived:** [novamera.svc-ncs](https://github.com/propel-ai/novamera.svc-ncs) (reference copy), [novamera.orebody-anim](https://github.com/propel-ai/novamera.orebody-anim), [novamera.poc-*](https://github.com/propel-ai?q=topic:archived+novamera.poc) (6 POCs)
+- `novamera.svc-nsd` (Spencer's Nov 2025 POC, unmaintained)
 
 ---
 
